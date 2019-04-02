@@ -2,23 +2,38 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Course Overview\n\n\nThe JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach someone with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.\n\n\nSyllabus\n\n\nThe below chart shows a high level overview of the course topics covered each day of the class.\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nTuesday\n\n\nWednesday\n\n\nThursday\n\n\nFriday\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nProgramming Fundamentals\n\n\nKey Words, Variables, Data Types\n\n\nFunctions\n\n\nScope\n\n\nPush Button app\n\n\n\n\n\n\nWeek 2\n\n\nDecision Statements\n\n\nConditionals\n\n\nControl Structures\n\n\nDebugging, Error Handling\n\n\nCalculator app\n\n\n\n\n\n\nWeek 3\n\n\nJS Libraries\n\n\nJQuery\n\n\nNodeJS\n\n\nNPM Libraries: Angular, Express\n\n\nGulp, Webpack\n\n\n\n\n\n\nWeek 4\n\n\nTypeScript\n\n\nOOP\n\n\nEncapsulation\n\n\nAbstraction\n\n\nInheritance\n\n\n\n\n\n\nWeek 5\n\n\nNull Types\n\n\nArrays and Enums\n\n\nRecursion\n\n\nArrow functions \"=\n\"\n\n\nToDo List app\n\n\n\n\n\n\nWeek 6\n\n\nWriting Quality Code\n\n\nDesign Principles\n\n\nPseudo Code\n\n\nComments\n\n\nVersion Control\n\n\n\n\n\n\nWeek 7\n\n\nReview JS/TS\n\n\nReview OOP\n\n\nReview Node/NPM\n\n\nReview Quality\n\n\nWhere to go from here\n\n\n\n\n\n\n\n\nCourse Instructor\n\n\nJoshua Michalik\n  \n\n\nTechnical Instructor and Web Application Developer\n  \n\nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "text": "JavaScript Academy\n\n\nIntroduction to Course\n\n\nThe JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.\n\n\nSee Course Overview\n\n\nWho is the instructor?\n\n\nJoshua Michalik\n  \n\n\nTechnical Instructor and Web Application Developer\n  \n\nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "title": "JavaScript Academy"
+        }, 
+        {
+            "location": "/#javascript-academy", 
+            "text": "", 
+            "title": "JavaScript Academy"
+        }, 
+        {
+            "location": "/#introduction-to-course", 
+            "text": "The JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.  See Course Overview", 
+            "title": "Introduction to Course"
+        }, 
+        {
+            "location": "/#who-is-the-instructor", 
+            "text": "Joshua Michalik     Technical Instructor and Web Application Developer    \nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "title": "Who is the instructor?"
+        }, 
+        {
+            "location": "/overview/", 
+            "text": "Course Overview\n\n\nThe Course Curriculum is basic outline and is subject to change by the instructor. More detailed outlines will be made available on the first day of class.\n\n\nSyllabus\n\n\nThe below chart shows a high level overview of the course topics covered each day of the class.\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nTuesday\n\n\nWednesday\n\n\nThursday\n\n\nFriday\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nProgramming Fundamentals\n\n\nKey Words, Variables, Data Types\n\n\nFunctions\n\n\nScope\n\n\nPush Button app\n\n\n\n\n\n\nWeek 2\n\n\nDecision Statements\n\n\nConditionals\n\n\nControl Structures\n\n\nDebugging, Error Handling\n\n\nCalculator app\n\n\n\n\n\n\nWeek 3\n\n\nJS Libraries\n\n\nJQuery\n\n\nNodeJS\n\n\nNPM Libraries: Angular, Express\n\n\nGulp, Webpack\n\n\n\n\n\n\nWeek 4\n\n\nTypeScript\n\n\nOOP\n\n\nEncapsulation\n\n\nAbstraction\n\n\nInheritance\n\n\n\n\n\n\nWeek 5\n\n\nNull Types\n\n\nArrays and Enums\n\n\nRecursion\n\n\nArrow functions \"=\n\"\n\n\nToDo List app\n\n\n\n\n\n\nWeek 6\n\n\nWriting Quality Code\n\n\nDesign Principles\n\n\nPseudo Code\n\n\nComments\n\n\nVersion Control\n\n\n\n\n\n\nWeek 7\n\n\nReview JS/TS\n\n\nReview OOP\n\n\nReview Node/NPM\n\n\nReview Quality\n\n\nWhere to go from here", 
             "title": "Course Overview"
         }, 
         {
-            "location": "/#course-overview", 
-            "text": "The JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach someone with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.", 
+            "location": "/overview/#course-overview", 
+            "text": "The Course Curriculum is basic outline and is subject to change by the instructor. More detailed outlines will be made available on the first day of class.", 
             "title": "Course Overview"
         }, 
         {
-            "location": "/#syllabus", 
+            "location": "/overview/#syllabus", 
             "text": "The below chart shows a high level overview of the course topics covered each day of the class.      Monday  Tuesday  Wednesday  Thursday  Friday      Week 1  Programming Fundamentals  Key Words, Variables, Data Types  Functions  Scope  Push Button app    Week 2  Decision Statements  Conditionals  Control Structures  Debugging, Error Handling  Calculator app    Week 3  JS Libraries  JQuery  NodeJS  NPM Libraries: Angular, Express  Gulp, Webpack    Week 4  TypeScript  OOP  Encapsulation  Abstraction  Inheritance    Week 5  Null Types  Arrays and Enums  Recursion  Arrow functions \"= \"  ToDo List app    Week 6  Writing Quality Code  Design Principles  Pseudo Code  Comments  Version Control    Week 7  Review JS/TS  Review OOP  Review Node/NPM  Review Quality  Where to go from here", 
             "title": "Syllabus"
-        }, 
-        {
-            "location": "/#course-instructor", 
-            "text": "Joshua Michalik     Technical Instructor and Web Application Developer    \nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
-            "title": "Course Instructor"
         }, 
         {
             "location": "/Week 1/1 - Monday/", 
