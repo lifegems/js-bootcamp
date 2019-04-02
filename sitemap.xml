@@ -10,41 +10,9 @@
     
 
     
-    <url>
-     <loc>/overview/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
         
     <url>
-     <loc>/Week 1/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 1/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 1/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 1/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 1/5 - Friday/</loc>
+     <loc>/1 - Overview/overview/</loc>
      <lastmod>2019-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -54,66 +22,44 @@
     
         
     <url>
-     <loc>/Week 2/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 2/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 2/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 2/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 2/5 - Friday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/Week 3/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 3/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Week 3/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 3/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 3/5 - Friday/</loc>
-     <lastmod>2019-04-02</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -122,133 +68,7 @@
     
         
     <url>
-     <loc>/Week 4/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 4/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 4/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 4/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 4/5 - Friday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/Week 5/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 5/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 5/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 5/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 5/5 - Friday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/Week 6/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 6/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 6/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 6/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 6/5 - Friday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/Week 7/1 - Monday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 7/2 - Tuesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 7/3 - Wednesday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 7/4 - Thursday/</loc>
-     <lastmod>2019-04-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Week 7/5 - Friday/</loc>
+     <loc>/3 - Appendix/FAQ/</loc>
      <lastmod>2019-04-02</lastmod>
      <changefreq>daily</changefreq>
     </url>

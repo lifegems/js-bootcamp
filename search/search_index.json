@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "JavaScript Academy\n\n\nIntroduction to Course\n\n\nThe JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.\n\n\nSee Course Overview\n\n\nWho is the instructor?\n\n\nJoshua Michalik\n  \n\n\nTechnical Instructor and Web Application Developer\n  \n\nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "text": "JavaScript Academy\n\n\nIntroduction to Course\n\n\nThe JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team. See all lessons included in the \nCourse Overview\n.\n\n\nTopics covered in course:\nProgramming Fundamentals\n   \nJavaScript\n \n \nTypeScript\n   \nNodeJS\n \n \nNPM\n   \nAngular\n   \nand more!\nSee \nCourse Overview\n and \nFAQs\n\n\n\n\nCourse Developed and Instructed by Joshua Michalik", 
             "title": "JavaScript Academy"
         }, 
         {
@@ -12,378 +12,383 @@
         }, 
         {
             "location": "/#introduction-to-course", 
-            "text": "The JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team.  See Course Overview", 
+            "text": "The JavaScript Academy is designed to take a hopeful student to a powerful programmer. Each day includes a variey of lively discussions and workshops to help all feel involved in the future-changing world of web application development. The course has been hand-crafted to tailor the needs to teach a student with no prior coding experience to not only program, but to walk away with the desirable know-how to work alongside a real-world software development team. See all lessons included in the  Course Overview .  Topics covered in course: Programming Fundamentals     JavaScript     TypeScript     NodeJS     NPM     Angular     and more! See  Course Overview  and  FAQs   Course Developed and Instructed by Joshua Michalik", 
             "title": "Introduction to Course"
         }, 
         {
-            "location": "/#who-is-the-instructor", 
-            "text": "Joshua Michalik     Technical Instructor and Web Application Developer    \nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Beacon, NY as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
-            "title": "Who is the instructor?"
-        }, 
-        {
-            "location": "/overview/", 
+            "location": "/1 - Overview/overview/", 
             "text": "Course Overview\n\n\nThe Course Curriculum is basic outline and is subject to change by the instructor. More detailed outlines will be made available on the first day of class.\n\n\nSyllabus\n\n\nThe below chart shows a high level overview of the course topics covered each day of the class.\n\n\n\n\n\n\n\n\n\n\nMonday\n\n\nTuesday\n\n\nWednesday\n\n\nThursday\n\n\nFriday\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nProgramming Fundamentals\n\n\nKey Words, Variables, Data Types\n\n\nFunctions\n\n\nScope\n\n\nPush Button app\n\n\n\n\n\n\nWeek 2\n\n\nDecision Statements\n\n\nConditionals\n\n\nControl Structures\n\n\nDebugging, Error Handling\n\n\nCalculator app\n\n\n\n\n\n\nWeek 3\n\n\nJS Libraries\n\n\nJQuery\n\n\nNodeJS\n\n\nNPM Libraries: Angular, Express\n\n\nGulp, Webpack\n\n\n\n\n\n\nWeek 4\n\n\nTypeScript\n\n\nOOP\n\n\nEncapsulation\n\n\nAbstraction\n\n\nInheritance\n\n\n\n\n\n\nWeek 5\n\n\nNull Types\n\n\nArrays and Enums\n\n\nRecursion\n\n\nArrow functions \"=\n\"\n\n\nToDo List app\n\n\n\n\n\n\nWeek 6\n\n\nWriting Quality Code\n\n\nDesign Principles\n\n\nPseudo Code\n\n\nComments\n\n\nVersion Control\n\n\n\n\n\n\nWeek 7\n\n\nReview JS/TS\n\n\nReview OOP\n\n\nReview Node/NPM\n\n\nReview Quality\n\n\nWhere to go from here", 
             "title": "Course Overview"
         }, 
         {
-            "location": "/overview/#course-overview", 
+            "location": "/1 - Overview/overview/#course-overview", 
             "text": "The Course Curriculum is basic outline and is subject to change by the instructor. More detailed outlines will be made available on the first day of class.", 
             "title": "Course Overview"
         }, 
         {
-            "location": "/overview/#syllabus", 
+            "location": "/1 - Overview/overview/#syllabus", 
             "text": "The below chart shows a high level overview of the course topics covered each day of the class.      Monday  Tuesday  Wednesday  Thursday  Friday      Week 1  Programming Fundamentals  Key Words, Variables, Data Types  Functions  Scope  Push Button app    Week 2  Decision Statements  Conditionals  Control Structures  Debugging, Error Handling  Calculator app    Week 3  JS Libraries  JQuery  NodeJS  NPM Libraries: Angular, Express  Gulp, Webpack    Week 4  TypeScript  OOP  Encapsulation  Abstraction  Inheritance    Week 5  Null Types  Arrays and Enums  Recursion  Arrow functions \"= \"  ToDo List app    Week 6  Writing Quality Code  Design Principles  Pseudo Code  Comments  Version Control    Week 7  Review JS/TS  Review OOP  Review Node/NPM  Review Quality  Where to go from here", 
             "title": "Syllabus"
         }, 
         {
-            "location": "/Week 1/1 - Monday/", 
+            "location": "/2 - Course/Week 1/1 - Monday/", 
             "text": "Course Overview\n\n\nProgramming Fundamentals\n\n\n\n\nIntroduction to Instructor and Students\n\n\nWhy Learn Programming?\n\n\nOverview of the Course\n\n\nHello World app", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 1/1 - Monday/#programming-fundamentals", 
+            "location": "/2 - Course/Week 1/1 - Monday/#programming-fundamentals", 
             "text": "Introduction to Instructor and Students  Why Learn Programming?  Overview of the Course  Hello World app", 
             "title": "Programming Fundamentals"
         }, 
         {
-            "location": "/Week 1/2 - Tuesday/", 
+            "location": "/2 - Course/Week 1/2 - Tuesday/", 
             "text": "Course Overview\n\n\nKey Words, Variables, Data Types\n\n\n\n\nKey Words: var, function, if, for\n\n\nVariables: create, read, update\n\n\nData Types: strings, integers, arrays", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 1/2 - Tuesday/#key-words-variables-data-types", 
+            "location": "/2 - Course/Week 1/2 - Tuesday/#key-words-variables-data-types", 
             "text": "Key Words: var, function, if, for  Variables: create, read, update  Data Types: strings, integers, arrays", 
             "title": "Key Words, Variables, Data Types"
         }, 
         {
-            "location": "/Week 1/3 - Wednesday/", 
+            "location": "/2 - Course/Week 1/3 - Wednesday/", 
             "text": "Course Overview\n\n\nFunctions\n\n\n\n\nReturn types\n\n\nParams", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 1/3 - Wednesday/#functions", 
+            "location": "/2 - Course/Week 1/3 - Wednesday/#functions", 
             "text": "Return types  Params", 
             "title": "Functions"
         }, 
         {
-            "location": "/Week 1/4 - Thursday/", 
+            "location": "/2 - Course/Week 1/4 - Thursday/", 
             "text": "Course Overview\n\n\nScope\n\n\n\n\nDOM scope\n\n\nfunction scope\n\n\nclass scope", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 1/4 - Thursday/#scope", 
+            "location": "/2 - Course/Week 1/4 - Thursday/#scope", 
             "text": "DOM scope  function scope  class scope", 
             "title": "Scope"
         }, 
         {
-            "location": "/Week 1/5 - Friday/", 
+            "location": "/2 - Course/Week 1/5 - Friday/", 
             "text": "Course Overview\n\n\nPush Button app\n\n\n\n\nUsing programming basics\n\n\nButtons and Events\n\n\nStyling", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 1/5 - Friday/#push-button-app", 
+            "location": "/2 - Course/Week 1/5 - Friday/#push-button-app", 
             "text": "Using programming basics  Buttons and Events  Styling", 
             "title": "Push Button app"
         }, 
         {
-            "location": "/Week 2/1 - Monday/", 
+            "location": "/2 - Course/Week 2/1 - Monday/", 
             "text": "Course Overview\n\n\nDecision Statements\n\n\n\n\nIf/else\n\n\nSwitch/case", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 2/1 - Monday/#decision-statements", 
+            "location": "/2 - Course/Week 2/1 - Monday/#decision-statements", 
             "text": "If/else  Switch/case", 
             "title": "Decision Statements"
         }, 
         {
-            "location": "/Week 2/2 - Tuesday/", 
+            "location": "/2 - Course/Week 2/2 - Tuesday/", 
             "text": "Course Overview\n\n\nConditionals\n\n\n\n\nElseif\n\n\nDangers of nested and complicated conditionals\n\n\nRemoving conditionals", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 2/2 - Tuesday/#conditionals", 
+            "location": "/2 - Course/Week 2/2 - Tuesday/#conditionals", 
             "text": "Elseif  Dangers of nested and complicated conditionals  Removing conditionals", 
             "title": "Conditionals"
         }, 
         {
-            "location": "/Week 2/3 - Wednesday/", 
+            "location": "/2 - Course/Week 2/3 - Wednesday/", 
             "text": "Course Overview\n\n\nControl Structures\n\n\n\n\ntry/catch\n\n\nwhile\n\n\ndo..while\n\n\nfor loops\n\n\nforeach loops", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 2/3 - Wednesday/#control-structures", 
+            "location": "/2 - Course/Week 2/3 - Wednesday/#control-structures", 
             "text": "try/catch  while  do..while  for loops  foreach loops", 
             "title": "Control Structures"
         }, 
         {
-            "location": "/Week 2/4 - Thursday/", 
+            "location": "/2 - Course/Week 2/4 - Thursday/", 
             "text": "Course Overview\n\n\nDebugging, Error Handling\n\n\n\n\nBrowser Dev Tools\n\n\nReading errors and stack traces\n\n\nDebug breakpoints", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 2/4 - Thursday/#debugging-error-handling", 
+            "location": "/2 - Course/Week 2/4 - Thursday/#debugging-error-handling", 
             "text": "Browser Dev Tools  Reading errors and stack traces  Debug breakpoints", 
             "title": "Debugging, Error Handling"
         }, 
         {
-            "location": "/Week 2/5 - Friday/", 
+            "location": "/2 - Course/Week 2/5 - Friday/", 
             "text": "Course Overview\n\n\nCalculator app\n\n\n\n\nBuilding a UI\n\n\nUsing Control Structures", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 2/5 - Friday/#calculator-app", 
+            "location": "/2 - Course/Week 2/5 - Friday/#calculator-app", 
             "text": "Building a UI  Using Control Structures", 
             "title": "Calculator app"
         }, 
         {
-            "location": "/Week 3/1 - Monday/", 
+            "location": "/2 - Course/Week 3/1 - Monday/", 
             "text": "Course Overview\n\n\nJS Libraries\n\n\n\n\nD3\n\n\nJQuery\n\n\nBootstrap", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 3/1 - Monday/#js-libraries", 
+            "location": "/2 - Course/Week 3/1 - Monday/#js-libraries", 
             "text": "D3  JQuery  Bootstrap", 
             "title": "JS Libraries"
         }, 
         {
-            "location": "/Week 3/2 - Tuesday/", 
+            "location": "/2 - Course/Week 3/2 - Tuesday/", 
             "text": "Course Overview\n\n\nJQuery\n\n\n\n\nDOM Manipulation\n\n\nAJAX\n\n\nJSON\n\n\nWhy it changed everything", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 3/2 - Tuesday/#jquery", 
+            "location": "/2 - Course/Week 3/2 - Tuesday/#jquery", 
             "text": "DOM Manipulation  AJAX  JSON  Why it changed everything", 
             "title": "JQuery"
         }, 
         {
-            "location": "/Week 3/3 - Wednesday/", 
+            "location": "/2 - Course/Week 3/3 - Wednesday/", 
             "text": "Course Overview\n\n\nNodeJS\n\n\n\n\nWhat is Serverside JS?\n\n\n'require' statements\n\n\nBuiltin Node libraries\n\n\nhttp/https\n\n\nfs\n\n\nargv", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 3/3 - Wednesday/#nodejs", 
+            "location": "/2 - Course/Week 3/3 - Wednesday/#nodejs", 
             "text": "What is Serverside JS?  'require' statements  Builtin Node libraries  http/https  fs  argv", 
             "title": "NodeJS"
         }, 
         {
-            "location": "/Week 3/4 - Thursday/", 
+            "location": "/2 - Course/Week 3/4 - Thursday/", 
             "text": "Course Overview\n\n\nNPM Libraries\n\n\n\n\nWhat is NPM?\n\n\nAdding new libraries\n\n\nTop used libraries\n\n\nAngular\n\n\nReact\n\n\nExpressJS", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 3/4 - Thursday/#npm-libraries", 
+            "location": "/2 - Course/Week 3/4 - Thursday/#npm-libraries", 
             "text": "What is NPM?  Adding new libraries  Top used libraries  Angular  React  ExpressJS", 
             "title": "NPM Libraries"
         }, 
         {
-            "location": "/Week 3/5 - Friday/", 
+            "location": "/2 - Course/Week 3/5 - Friday/", 
             "text": "Course Overview\n\n\nGulp, Webpack\n\n\n\n\nAdding tools to improve efficiency\n\n\nRelated tools", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 3/5 - Friday/#gulp-webpack", 
+            "location": "/2 - Course/Week 3/5 - Friday/#gulp-webpack", 
             "text": "Adding tools to improve efficiency  Related tools", 
             "title": "Gulp, Webpack"
         }, 
         {
-            "location": "/Week 4/1 - Monday/", 
+            "location": "/2 - Course/Week 4/1 - Monday/", 
             "text": "Course Overview\n\n\nTypeScript\n\n\n\n\nWhat is TypeScript?\n\n\nFeatures\n\n\nUsing TypeScript in an app", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 4/1 - Monday/#typescript", 
+            "location": "/2 - Course/Week 4/1 - Monday/#typescript", 
             "text": "What is TypeScript?  Features  Using TypeScript in an app", 
             "title": "TypeScript"
         }, 
         {
-            "location": "/Week 4/2 - Tuesday/", 
+            "location": "/2 - Course/Week 4/2 - Tuesday/", 
             "text": "Course Overview\n\n\nObject Oriented Programming\n\n\n\n\nWhat are objects?\n\n\nUsing classes in TypeScript", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 4/2 - Tuesday/#object-oriented-programming", 
+            "location": "/2 - Course/Week 4/2 - Tuesday/#object-oriented-programming", 
             "text": "What are objects?  Using classes in TypeScript", 
             "title": "Object Oriented Programming"
         }, 
         {
-            "location": "/Week 4/3 - Wednesday/", 
+            "location": "/2 - Course/Week 4/3 - Wednesday/", 
             "text": "Course Overview\n\n\nEncapsulation\n\n\n\n\nAccessing Variables\n\n\nDetermining private, protected, or public", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 4/3 - Wednesday/#encapsulation", 
+            "location": "/2 - Course/Week 4/3 - Wednesday/#encapsulation", 
             "text": "Accessing Variables  Determining private, protected, or public", 
             "title": "Encapsulation"
         }, 
         {
-            "location": "/Week 4/4 - Thursday/", 
+            "location": "/2 - Course/Week 4/4 - Thursday/", 
             "text": "Course Overview\n\n\nAbstraction\n\n\n\n\nInterfaces\n\n\nAbstract Classes", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 4/4 - Thursday/#abstraction", 
+            "location": "/2 - Course/Week 4/4 - Thursday/#abstraction", 
             "text": "Interfaces  Abstract Classes", 
             "title": "Abstraction"
         }, 
         {
-            "location": "/Week 4/5 - Friday/", 
+            "location": "/2 - Course/Week 4/5 - Friday/", 
             "text": "Course Overview\n\n\nInheritance\n\n\n\n\nHow inheritance works in TypeScript\n\n\nWhen to use inheritance", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 4/5 - Friday/#inheritance", 
+            "location": "/2 - Course/Week 4/5 - Friday/#inheritance", 
             "text": "How inheritance works in TypeScript  When to use inheritance", 
             "title": "Inheritance"
         }, 
         {
-            "location": "/Week 5/1 - Monday/", 
+            "location": "/2 - Course/Week 5/1 - Monday/", 
             "text": "Course Overview\n\n\nNULL types\n\n\n\n\nNull VS undefined VS empty VS 0\n\n\nAre they really different?\n\n\nPros and Cons", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 5/1 - Monday/#null-types", 
+            "location": "/2 - Course/Week 5/1 - Monday/#null-types", 
             "text": "Null VS undefined VS empty VS 0  Are they really different?  Pros and Cons", 
             "title": "NULL types"
         }, 
         {
-            "location": "/Week 5/2 - Tuesday/", 
+            "location": "/2 - Course/Week 5/2 - Tuesday/", 
             "text": "Course Overview\n\n\nArrays and Enums\n\n\n\n\nA string is a list of characters\n\n\nAn array is a list of items of a specific type\n\n\nEnums are re-usable preset lists", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 5/2 - Tuesday/#arrays-and-enums", 
+            "location": "/2 - Course/Week 5/2 - Tuesday/#arrays-and-enums", 
             "text": "A string is a list of characters  An array is a list of items of a specific type  Enums are re-usable preset lists", 
             "title": "Arrays and Enums"
         }, 
         {
-            "location": "/Week 5/3 - Wednesday/", 
+            "location": "/2 - Course/Week 5/3 - Wednesday/", 
             "text": "Course Overview\n\n\nRecursion\n\n\n\n\nSmall but powerful \n\n\nHow to use recursion\n\n\nWhen to use recursion", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 5/3 - Wednesday/#recursion", 
+            "location": "/2 - Course/Week 5/3 - Wednesday/#recursion", 
             "text": "Small but powerful   How to use recursion  When to use recursion", 
             "title": "Recursion"
         }, 
         {
-            "location": "/Week 5/4 - Thursday/", 
+            "location": "/2 - Course/Week 5/4 - Thursday/", 
             "text": "Course Overview\n\n\nArrow Functions \"=\n\"\n\n\n\n\nAnonymous, shortcut replacements for \"function () {...}\"\n\n\nBenefits of arrow functions\n\n\nWhen to use them", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 5/4 - Thursday/#arrow-functions", 
+            "location": "/2 - Course/Week 5/4 - Thursday/#arrow-functions", 
             "text": "Anonymous, shortcut replacements for \"function () {...}\"  Benefits of arrow functions  When to use them", 
             "title": "Arrow Functions \"=&gt;\""
         }, 
         {
-            "location": "/Week 5/5 - Friday/", 
+            "location": "/2 - Course/Week 5/5 - Friday/", 
             "text": "Course Overview\n\n\nToDo List app\n\n\n\n\nUsing nulls and arrays in a todo list app", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 5/5 - Friday/#todo-list-app", 
+            "location": "/2 - Course/Week 5/5 - Friday/#todo-list-app", 
             "text": "Using nulls and arrays in a todo list app", 
             "title": "ToDo List app"
         }, 
         {
-            "location": "/Week 6/1 - Monday/", 
+            "location": "/2 - Course/Week 6/1 - Monday/", 
             "text": "Course Overview\n\n\nWriting Quality Code\n\n\n\n\nNot all code is good code\n\n\nShort VS Readable\n\n\nSmart VS Helpful\n\n\nPlan ahead", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 6/1 - Monday/#writing-quality-code", 
+            "location": "/2 - Course/Week 6/1 - Monday/#writing-quality-code", 
             "text": "Not all code is good code  Short VS Readable  Smart VS Helpful  Plan ahead", 
             "title": "Writing Quality Code"
         }, 
         {
-            "location": "/Week 6/2 - Tuesday/", 
+            "location": "/2 - Course/Week 6/2 - Tuesday/", 
             "text": "Course Overview\n\n\nDesign Principles\n\n\n\n\nCommon Design Patterns\n\n\nMVC pattern\n\n\nMVVM and other binding patterns\n\n\nState pattern\n\n\nChoosing the right pattern", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 6/2 - Tuesday/#design-principles", 
+            "location": "/2 - Course/Week 6/2 - Tuesday/#design-principles", 
             "text": "Common Design Patterns  MVC pattern  MVVM and other binding patterns  State pattern  Choosing the right pattern", 
             "title": "Design Principles"
         }, 
         {
-            "location": "/Week 6/3 - Wednesday/", 
+            "location": "/2 - Course/Week 6/3 - Wednesday/", 
             "text": "Course Overview\n\n\nPseudo Code\n\n\n\n\nWhy use pseudo code?\n\n\nWhen to use pseudo code?\n\n\nDos/Donts", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 6/3 - Wednesday/#pseudo-code", 
+            "location": "/2 - Course/Week 6/3 - Wednesday/#pseudo-code", 
             "text": "Why use pseudo code?  When to use pseudo code?  Dos/Donts", 
             "title": "Pseudo Code"
         }, 
         {
-            "location": "/Week 6/4 - Thursday/", 
+            "location": "/2 - Course/Week 6/4 - Thursday/", 
             "text": "Course Overview\n\n\nComments in code\n\n\n\n\nComments, helpful vs distracting vs misleading\n\n\nHow to use comments\n\n\nWhen to use comments\n\n\nDos/Donts", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 6/4 - Thursday/#comments-in-code", 
+            "location": "/2 - Course/Week 6/4 - Thursday/#comments-in-code", 
             "text": "Comments, helpful vs distracting vs misleading  How to use comments  When to use comments  Dos/Donts", 
             "title": "Comments in code"
         }, 
         {
-            "location": "/Week 6/5 - Friday/", 
+            "location": "/2 - Course/Week 6/5 - Friday/", 
             "text": "Course Overview\n\n\nVersion Control\n\n\n\n\nWhy Git?\n\n\nBasic usage\n\n\nWhen to use? always\n\n\nOther version control libraries (mercury, svn, etc)", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 6/5 - Friday/#version-control", 
+            "location": "/2 - Course/Week 6/5 - Friday/#version-control", 
             "text": "Why Git?  Basic usage  When to use? always  Other version control libraries (mercury, svn, etc)", 
             "title": "Version Control"
         }, 
         {
-            "location": "/Week 7/1 - Monday/", 
+            "location": "/2 - Course/Week 7/1 - Monday/", 
             "text": "Course Overview\n\n\nReview JS/TS\n\n\n\n\nKey features\n\n\nWhen to use JS vs TS\n\n\nClassroom questions", 
             "title": "1   Monday"
         }, 
         {
-            "location": "/Week 7/1 - Monday/#review-jsts", 
+            "location": "/2 - Course/Week 7/1 - Monday/#review-jsts", 
             "text": "Key features  When to use JS vs TS  Classroom questions", 
             "title": "Review JS/TS"
         }, 
         {
-            "location": "/Week 7/2 - Tuesday/", 
+            "location": "/2 - Course/Week 7/2 - Tuesday/", 
             "text": "Course Overview\n\n\nReview Object Oriented Programming\n\n\n\n\nClasses, Object design\n\n\nWhen to use OOP\n\n\nClassroom questions", 
             "title": "2   Tuesday"
         }, 
         {
-            "location": "/Week 7/2 - Tuesday/#review-object-oriented-programming", 
+            "location": "/2 - Course/Week 7/2 - Tuesday/#review-object-oriented-programming", 
             "text": "Classes, Object design  When to use OOP  Classroom questions", 
             "title": "Review Object Oriented Programming"
         }, 
         {
-            "location": "/Week 7/3 - Wednesday/", 
+            "location": "/2 - Course/Week 7/3 - Wednesday/", 
             "text": "Course Overview\n\n\nReview Node/NPM\n\n\n\n\nOverview and usage\n\n\nWhy to use\n\n\nClassroom questions", 
             "title": "3   Wednesday"
         }, 
         {
-            "location": "/Week 7/3 - Wednesday/#review-nodenpm", 
+            "location": "/2 - Course/Week 7/3 - Wednesday/#review-nodenpm", 
             "text": "Overview and usage  Why to use  Classroom questions", 
             "title": "Review Node/NPM"
         }, 
         {
-            "location": "/Week 7/4 - Thursday/", 
+            "location": "/2 - Course/Week 7/4 - Thursday/", 
             "text": "Course Overview\n\n\nReview Quality Code\n\n\n\n\nBefore you code\n\n\nWhile you code\n\n\nAfter you code", 
             "title": "4   Thursday"
         }, 
         {
-            "location": "/Week 7/4 - Thursday/#review-quality-code", 
+            "location": "/2 - Course/Week 7/4 - Thursday/#review-quality-code", 
             "text": "Before you code  While you code  After you code", 
             "title": "Review Quality Code"
         }, 
         {
-            "location": "/Week 7/5 - Friday/", 
+            "location": "/2 - Course/Week 7/5 - Friday/", 
             "text": "Course Overview\n\n\nWhere to go from here\n\n\n\n\nIdentifying your strengths\n\n\nKnow your weaknesses, but highlight your strengths and curiosity\n\n\nDirections:\n\n\nUX Design\n\n\nWriting library code\n\n\nClient/Server", 
             "title": "5   Friday"
         }, 
         {
-            "location": "/Week 7/5 - Friday/#where-to-go-from-here", 
+            "location": "/2 - Course/Week 7/5 - Friday/#where-to-go-from-here", 
             "text": "Identifying your strengths  Know your weaknesses, but highlight your strengths and curiosity  Directions:  UX Design  Writing library code  Client/Server", 
             "title": "Where to go from here"
+        }, 
+        {
+            "location": "/3 - Appendix/FAQ/", 
+            "text": "Frequently Asked Questions\n\n\n\n\nWhat topics are covered in JavaScript Academy?\n\n\nAn introduction to programming focused on using JavaScript and modern web frameworks. See the \nCourse Overview\n for all topics included in the course.\n\n\n\n\n\n\nWho is the Course Instructor?\n\n\nJoshua Michalik\n  \n\n\nTechnical Instructor and Web Application Developer\n  \n\nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Upstate New York as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "title": "Frequently Asked Questions"
+        }, 
+        {
+            "location": "/3 - Appendix/FAQ/#frequently-asked-questions", 
+            "text": "What topics are covered in JavaScript Academy?  An introduction to programming focused on using JavaScript and modern web frameworks. See the  Course Overview  for all topics included in the course.    Who is the Course Instructor?  Joshua Michalik     Technical Instructor and Web Application Developer    \nBorn and raised in St. Louis, MO and entered the world of motivational speaking. Shortly after school, moved to Brooklyn, NY and entered the field of Web and Software Development with websites reaching millions of users around the world. Now living in Upstate New York as a remote Web Developer, Joshua is actively involved in Technical Instruction and helping others in the software industry to expand their areas of expertise.", 
+            "title": "Frequently Asked Questions"
         }
     ]
 }
