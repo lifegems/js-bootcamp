@@ -1,4 +1,4 @@
-site_name: JavaScript Bootcamp
+site_name: JavaScript Academy
 theme:
    name: 'material'
 extra_css: [style.css]
