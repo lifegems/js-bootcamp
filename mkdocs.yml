@@ -24,3 +24,52 @@ markdown_extensions:
    - pymdownx.superfences
    - pymdownx.tasklist(custom_checkbox=true)
    - pymdownx.tilde
+pages:
+   - Welcome: index.md
+   - 1. Introduction:
+      - Overview: 1-Overview/overview.md
+   - 2. Course:
+      - Week 1:
+         - Monday: 2-Course/wk1/1-Monday.md
+         - Tuesday: 2-Course/wk1/2-Tuesday.md
+         - Wednesday: 2-Course/wk1/3-Wednesday.md
+         - Thursday: 2-Course/wk1/4-Thursday.md
+         - Friday: 2-Course/wk1/5-Friday.md
+      - Week 2:
+         - Monday: 2-Course/wk2/1-Monday.md
+         - Tuesday: 2-Course/wk2/2-Tuesday.md
+         - Wednesday: 2-Course/wk2/3-Wednesday.md
+         - Thursday: 2-Course/wk2/4-Thursday.md
+         - Friday: 2-Course/wk2/5-Friday.md
+      - Week 3:
+         - Monday: 2-Course/wk3/1-Monday.md
+         - Tuesday: 2-Course/wk3/2-Tuesday.md
+         - Wednesday: 2-Course/wk3/3-Wednesday.md
+         - Thursday: 2-Course/wk3/4-Thursday.md
+         - Friday: 2-Course/wk3/5-Friday.md
+      - Week 4:
+         - Monday: 2-Course/wk4/1-Monday.md
+         - Tuesday: 2-Course/wk4/2-Tuesday.md
+         - Wednesday: 2-Course/wk4/3-Wednesday.md
+         - Thursday: 2-Course/wk4/4-Thursday.md
+         - Friday: 2-Course/wk4/5-Friday.md
+      - Week 5:
+         - Monday: 2-Course/wk5/1-Monday.md
+         - Tuesday: 2-Course/wk5/2-Tuesday.md
+         - Wednesday: 2-Course/wk5/3-Wednesday.md
+         - Thursday: 2-Course/wk5/4-Thursday.md
+         - Friday: 2-Course/wk5/5-Friday.md
+      - Week 6:
+         - Monday: 2-Course/wk6/1-Monday.md
+         - Tuesday: 2-Course/wk6/2-Tuesday.md
+         - Wednesday: 2-Course/wk6/3-Wednesday.md
+         - Thursday: 2-Course/wk6/4-Thursday.md
+         - Friday: 2-Course/wk6/5-Friday.md
+      - Week 7:
+         - Monday: 2-Course/wk7/1-Monday.md
+         - Tuesday: 2-Course/wk7/2-Tuesday.md
+         - Wednesday: 2-Course/wk7/3-Wednesday.md
+         - Thursday: 2-Course/wk7/4-Thursday.md
+         - Friday: 2-Course/wk7/5-Friday.md
+   - 3. Appendix:
+      - FAQ: 3-Appendix/FAQ.md
