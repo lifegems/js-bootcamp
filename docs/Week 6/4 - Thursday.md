@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Comments in code
 * Comments, helpful vs distracting vs misleading
 * How to use comments

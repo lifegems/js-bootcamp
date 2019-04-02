@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # NPM Libraries
 * What is NPM?
 * Adding new libraries

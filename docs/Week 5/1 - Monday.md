@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # NULL types
 * Null VS undefined VS empty VS 0
 * Are they really different?

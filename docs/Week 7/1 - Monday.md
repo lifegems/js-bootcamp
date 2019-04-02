@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Review JS/TS
 * Key features
 * When to use JS vs TS

@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Recursion
 * Small but powerful 
 * How to use recursion

@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Review Node/NPM
 * Overview and usage
 * Why to use

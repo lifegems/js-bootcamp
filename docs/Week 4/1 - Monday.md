@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # TypeScript
 * What is TypeScript?
 * Features

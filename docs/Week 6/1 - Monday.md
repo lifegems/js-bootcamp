@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Writing Quality Code
 * Not all code is good code
 * Short VS Readable

@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Conditionals
 * Elseif
 * Dangers of nested and complicated conditionals

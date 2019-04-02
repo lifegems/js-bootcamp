@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # NodeJS
 * What is Serverside JS?
 * 'require' statements

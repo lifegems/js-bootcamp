@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Design Principles
 * Common Design Patterns
  * MVC pattern

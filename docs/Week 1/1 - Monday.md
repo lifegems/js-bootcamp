@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Programming Fundamentals
 * Introduction to Instructor and Students
 * Why Learn Programming?

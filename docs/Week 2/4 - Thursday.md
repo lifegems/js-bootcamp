@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Debugging, Error Handling
 * Browser Dev Tools
 * Reading errors and stack traces

@@ -1,4 +1,4 @@
-[Course Overview](../index.md)
+[Course Overview](../overview.md)
 # Key Words, Variables, Data Types
 * Key Words: var, function, if, for
 * Variables: create, read, update
