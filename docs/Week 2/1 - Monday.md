@@ -1,4 +1,4 @@
 [Course Overview](../index.md)
 # Decision Statements
 * If/else
-* Switch
+* Switch/case

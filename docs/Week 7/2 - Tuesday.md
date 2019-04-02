@@ -1,3 +1,5 @@
 [Course Overview](../index.md)
-# Key Words, Variables, Data Types
-* 
+# Review Object Oriented Programming
+* Classes, Object design
+* When to use OOP
+* Classroom questions

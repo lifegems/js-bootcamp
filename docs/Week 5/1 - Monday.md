@@ -1,6 +1,5 @@
 [Course Overview](../index.md)
-# Programming Fundamentals
-* Introduction to Instructor and Students
-* Why Learn Programming?
-* Overview of the Course
-* Hello World app
+# NULL types
+* Null VS undefined VS empty VS 0
+* Are they really different?
+* Pros and Cons

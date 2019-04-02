@@ -1,6 +1,6 @@
 [Course Overview](../index.md)
-# Programming Fundamentals
-* Introduction to Instructor and Students
-* Why Learn Programming?
-* Overview of the Course
-* Hello World app
+# Writing Quality Code
+* Not all code is good code
+* Short VS Readable
+* Smart VS Helpful
+* Plan ahead

@@ -1,6 +1,5 @@
 [Course Overview](../index.md)
-# Programming Fundamentals
-* Introduction to Instructor and Students
-* Why Learn Programming?
-* Overview of the Course
-* Hello World app
+# Review JS/TS
+* Key features
+* When to use JS vs TS
+* Classroom questions

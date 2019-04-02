@@ -1,6 +1,5 @@
 [Course Overview](../index.md)
-# Programming Fundamentals
-* Introduction to Instructor and Students
-* Why Learn Programming?
-* Overview of the Course
-* Hello World app
+# TypeScript
+* What is TypeScript?
+* Features
+* Using TypeScript in an app

@@ -1,3 +1,5 @@
 [Course Overview](../index.md)
-# Key Words, Variables, Data Types
-* 
+# Conditionals
+* Elseif
+* Dangers of nested and complicated conditionals
+* Removing conditionals

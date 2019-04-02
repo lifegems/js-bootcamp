@@ -1,3 +1,5 @@
 [Course Overview](../index.md)
-# Key Words, Variables, Data Types
-* 
+# Arrays and Enums
+* A string is a list of characters
+* An array is a list of items of a specific type
+* Enums are re-usable preset lists
