@@ -1,5 +1,5 @@
 [<-- Course Overview](../../1-Overview/overview.md)
-# Push Button app
+# Typewriter app
 * Using programming basics
 * Buttons and Events
 * Styling
